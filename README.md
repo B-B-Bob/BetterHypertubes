@@ -7,6 +7,7 @@ This mod adds faster hypertube entrances with a mark 2 and 3 version. The new en
 https://github.com/user-attachments/assets/2a454989-e641-4dad-ae18-e17a1e150fa9
 
 
+# Full Video on how and why I made this mod. [![Watch the video](https://img.youtube.com/vi/29-QRiXfLeU?si=IPn9_FACsGSA1J0C/hqdefault.jpg)](https://youtu.be/29-QRiXfLeU?si=2-wrJJhnaDbxSMk3)
 
 
 
